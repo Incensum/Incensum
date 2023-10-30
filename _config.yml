@@ -1,3 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: [Incensum's Page]
+description: [A page for all my random stuff]
